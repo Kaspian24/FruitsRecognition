@@ -1,7 +1,7 @@
 task: classify
 mode: train
 model: yolov8n-cls.pt
-data: ./fruits-100
+data: ./dataset
 epochs: 5
 time: null
 patience: 100
